@@ -17,6 +17,6 @@ LoginButton.addEventListener('click', function (e) {
     }
     else {
         loginMessage.style.display = 'inline-block';
-        footer.style.marginTop = '-7em';
+        footer.style.marginTop = '-2.2em';
     }
 })
