@@ -175,6 +175,11 @@ body {
     background-color: rgb(143, 143, 143);
 }
 
+.image img {
+    width: 200px;
+    height: 190px;
+}
+
 /* akhir dari card 2 */
 /* promosi */
 .promosi {
@@ -259,6 +264,8 @@ body {
 
     .promImg {
         display: none;
+        border-radius: 100%;
+        opacity: .9;
     }
 
     .promosi {
