@@ -71,7 +71,7 @@ body {
     padding-bottom: 13em;
     color: #3a3850;
     position: relative;
-    margin-top: 100px;
+    margin-top: 90px;
 }
 
 .text-head-carde {
@@ -80,13 +80,14 @@ body {
 
 .bingkai {
     background-color: rgb(143, 143, 143);
-    padding: 5em 7px 0 7px;
+    padding: 0 7px 0 7px;
     border-bottom-left-radius: 20px;
     border-top-right-radius: 20px;
     margin-top: 30px;
     text-align: center;
     color: #fff;
 }
+
 
 .bingkai-beda {
     background-color: rgb(143, 143, 143);
