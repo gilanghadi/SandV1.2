@@ -4,8 +4,8 @@ const clickme2 = document.getElementById('clickme2');
 const clickme3 = document.getElementById('clickme3');
 clickme.addEventListener('click', function(e) {
     e.preventDefault();
-    alert('jan batu klo dibilangin(cmn ngigetin)');
-    alert('yeh jagn marah gua ngomong gitu,pisss');
+    alert('seperti yang selalu gua bilang');
+    alert('selalu dijaga terus yaa semangatnya');
 })
 clickme1.addEventListener('click', function(e) {
     e.preventDefault();
@@ -19,7 +19,7 @@ clickme2.addEventListener('click', function(e) {
 })
 clickme3.addEventListener('click', function(e) {
     e.preventDefault();
-    alert('knp matahari terbenam?karna dia kalah cantik sama lu');
+    alert('knp matahari terbenam? karna dia kalah cantik sama lu');
     alert('asekk masuk lagi');
     alert('namanya juga usaha (usaha dagangg!!)');
 })
