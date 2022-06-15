@@ -5,7 +5,7 @@ const clickme3 = document.getElementById('clickme3');
 clickme.addEventListener('click', function(e) {
     e.preventDefault();
     alert('seperti yang selalu gua bilang');
-    alert('selalu dijaga terus yaa semangatnya');
+    alert('selalu dijaga terus yaa semangat sama bahagianyaa');
 })
 clickme1.addEventListener('click', function(e) {
     e.preventDefault();
