@@ -11,6 +11,9 @@ clickme1.addEventListener('click', function(e) {
     e.preventDefault();
     alert('jangan nakal,klo nakal yang wajar aja');
     alert('love yu');
+    alert('oiya lupa, nitip salam klo gk salah kemaren tanggal 13 juni ultah emak lu kan ya?');
+    alert('selamat ulang tahunn');
+    alert('sorry klo salah,ingetanya rada samar soalnya');
 })
 clickme2.addEventListener('click', function(e) {
     e.preventDefault();

@@ -24,6 +24,10 @@ body {
     background-color: rgb(143, 143, 143);
 }
 
+.btn-navbar a {
+    width: 100%;
+}
+
 /* jumbtron */
 .jumbotron {
     height: 100%;
