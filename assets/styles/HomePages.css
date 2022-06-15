@@ -16,7 +16,6 @@ body {
 /* navbar */
 .navbar-brand {
     font-family: "Viga", Arial, Helvetica, sans-serif;
-    cursor: default;
     font-size: 30px;
 }
 
